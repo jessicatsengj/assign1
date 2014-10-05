@@ -76,8 +76,7 @@ void draw() {
        int n = machine.getFruitCount(b)*machine.getSlotScore(b);
        int o = machine.getFruitCount(c)*machine.getSlotScore(c);
        
-      
-       
+     
        totalScore=totalScore+m+n+o;
  
       
