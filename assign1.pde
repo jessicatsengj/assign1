@@ -11,6 +11,7 @@ int h = 50;
 // --------------------------------------------
 // put your code inside here
 int totalScore = 500;
+
 int a = int(random(6));
 int b = int(random(6));
 int c = int(random(6));
